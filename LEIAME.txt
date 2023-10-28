@@ -1,0 +1,4 @@
+Alguns trechos de código contêm um temporizador time.sleep para uma melhor visualização do algoritmo. 
+Portanto, a velocidade de resolução do problema não deve ser considerada (a menos que a linha de comando em "Search" linha 104 seja excluída).
+
+A matriz level ainda não é dinâmica, mas seus valores podem ser alterados.
