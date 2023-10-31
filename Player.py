@@ -33,7 +33,9 @@ class Player(pygame.sprite.Sprite):
 
         #Inicializando gae control
         self.game_control = GameControl()
-    
+
+        self.amount_row = len(level)
+        self.amount_col = len(level[0])
 
     def Update(self):
         
@@ -65,7 +67,7 @@ class Player(pygame.sprite.Sprite):
 
     def MovRight(self):
         self.img_Y = 32
-        if self.col + 1 < 10 :
+        if self.col + 1 < self.amount_col :
             if level[self.row][self.col+1] != 4:
                 self.col += 1
                 self.rect.x += self.BLOCK_SIZE
@@ -83,7 +85,7 @@ class Player(pygame.sprite.Sprite):
 
     def MovDown(self):
         self.img_Y = 0
-        if self.row + 1 < 10:
+        if self.row + 1 < self.amount_row:
             if level[self.row + 1][self.col] != 4:
                 self.rect.y += self.BLOCK_SIZE
                 self.row += 1
