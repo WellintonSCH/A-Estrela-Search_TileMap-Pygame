@@ -2,12 +2,11 @@
 
 O jogo contém uma matriz `level` onde cada valor da matriz representa um tipo de terreno e funciona como um "editor de mapa". 
 
-Cada terreno tem uma imagem e um custo associado que podem ser alterados a partir dos arquivos `Map(block_images)` e `GameControl(CoastControl(row, col))` respectivamente.
-
 Para editar o mapa, siga as instruções abaixo:
 
-1. Abra o arquivo `Map.py: block_images` para alterar as imagens dos terrenos.
+1. Abra o arquivo `Map.py` e use o dicionario `block_images` para manipular as imagens dos terrenos.
 2. Abra o arquivo `GameControl.py` e ajuste a função `CoastControl(row, col)` para alterar os custos associados a cada tipo de terreno.
+3. O arquivo `GameControl.py` tabém pode ser usado para alterar outras funcionalidades do jogo
 
 ## Como contribuir
 
