@@ -37,7 +37,4 @@ Certifique-se de descrever claramente as mudanças que você fez e como elas afe
 
 
 ## Contato
-
-Forneça informações de contato para que os usuários possam entrar em contato com você, caso tenham dúvidas ou queiram colaborar. Por exemplo:
-
 Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para me contatar via email em [schweitzerwellinton@gmail.com](mailto:schweitzerwellinton@gmail.com).
