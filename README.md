@@ -1,12 +1,11 @@
 ## Uso
 
-O jogo contém uma matriz `level` onde cada valor da matriz representa um tipo de terreno e funciona como um "editor de mapa". 
+O jogo contém uma matriz `level` onde cada valor da matriz representa um tipo de terreno e funciona como um "editor de mapa". Podemos 
 
 Para manipular os terrenos, siga as instruções abaixo:
 
 1. Abra o arquivo `Map.py` e use o dicionario `block_images` para manipular as imagens dos terrenos.
 2. Abra o arquivo `GameControl.py` e ajuste a função `CoastControl(row, col)` para alterar os custos associados a cada tipo de terreno.
-3. O arquivo `GameControl.py` tabém pode ser usado para alterar outras funcionalidades do jogo
 
 ## Como contribuir
 
