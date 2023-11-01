@@ -11,17 +11,10 @@ Para editar o mapa, siga as instruções abaixo:
 
 ## Como contribuir
 
-### Novos níveis de teste
-Se você deseja adicionar novos níveis de teste ao jogo, certifique-se de seguir as diretrizes de design estabelecidas.
-
-### Novas formas de visualização do algoritmo
-Se você tiver ideias para melhorar a visualização do algoritmo de busca, sinta-se à vontade para propor novas formas de visualização que possam facilitar a compreensão do funcionamento do algoritmo.
-
-### Novos métodos de busca
-Sinta-se à vontade para adicionar novos métodos de busca.
-
-### Atualizações de animação do jogo e sprites
-Adição de animações mais suaves e sprites mais atraentes.
+- Novos níveis de teste
+- Novas formas de visualização do algoritmo de busca
+- Novos métodos de busca
+- Atualizações de animação do jogo e sprites
 
 ## Como começar
 
