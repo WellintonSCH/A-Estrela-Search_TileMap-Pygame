@@ -13,4 +13,4 @@ Para editar o mapa, siga as instruções abaixo:
 
 Forneça informações de contato para que os usuários possam entrar em contato com você, caso tenham dúvidas ou queiram colaborar. Por exemplo:
 
-Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para me contatar via email em [schweitzerwellinton@gmail.com](mailto:schweitzerwellinton@gmail.com).# A-Estrela-Search_TileMap-Pygame
+Se você tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para me contatar via email em [schweitzerwellinton@gmail.com](mailto:schweitzerwellinton@gmail.com).
