@@ -6,8 +6,8 @@ Cada terreno tem uma imagem e um custo associado que podem ser alterados a parti
 
 Para editar o mapa, siga as instruções abaixo:
 
-1. Abra o arquivo `Map(block_images)` para alterar as imagens dos terrenos.
-2. Abra o arquivo `GameControl` e ajuste a função `CoastControl(row, col)` para alterar os custos associados a cada tipo de terreno.
+1. Abra o arquivo `Map.py: block_images` para alterar as imagens dos terrenos.
+2. Abra o arquivo `GameControl.py` e ajuste a função `CoastControl(row, col)` para alterar os custos associados a cada tipo de terreno.
 
 ## Como contribuir
 
