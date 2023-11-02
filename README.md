@@ -1,7 +1,9 @@
 ## Uso
 
 Ao baixar o projeto instale as dependencias executando os seguintes comandos no terminal:
+
 `pip install pygame`
+
 `pip install netwokx`
 
 O jogo contém uma matriz `level` onde cada valor da matriz representa um tipo de terreno e funciona como um "editor de mapa". Podemos 
