@@ -1,5 +1,9 @@
 ## Uso
 
+Ao baixar o projeto instale as dependencias executando os seguintes comandos no terminal:
+`pip install pygame`
+`pip install netwokx`
+
 O jogo contém uma matriz `level` onde cada valor da matriz representa um tipo de terreno e funciona como um "editor de mapa". Podemos 
 
 Para manipular os terrenos, siga as instruções abaixo:
@@ -19,10 +23,11 @@ Para manipular os terrenos, siga as instruções abaixo:
 1. Faça um fork deste repositório
 2. Clone o repositório forkado para sua máquina local
 3. Crie um novo branch para suas alterações
-4. Faça as alterações desejadas
-5. Faça commit de suas alterações
-6. Push para o branch em seu repositório forkado
-7. Abra um pull request para este repositório principal
+4. Instale as dependencias ciatdas acima
+5. Faça as alterações desejadas
+6. Faça commit de suas alterações
+7. Push para o branch em seu repositório forkado
+8. Abra um pull request para este repositório principal
 
 Certifique-se de descrever claramente as mudanças que você fez e como elas afetam o projeto.
 
