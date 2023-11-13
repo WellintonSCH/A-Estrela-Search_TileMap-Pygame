@@ -25,7 +25,7 @@ Para manipular os terrenos, siga as instruções abaixo:
 1. Faça um fork deste repositório
 2. Clone o repositório forkado para sua máquina local
 3. Crie um novo branch para suas alterações
-4. Instale as dependencias ciatdas acima
+4. Instale as dependencias citadas acima
 5. Faça as alterações desejadas
 6. Faça commit de suas alterações
 7. Push para o branch em seu repositório forkado
